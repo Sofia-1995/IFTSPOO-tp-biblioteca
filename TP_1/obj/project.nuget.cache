@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bJsrqqE4a+b9beDIRH/B5l6aThp4Eef2IPXG00uc6v40Zwt55MIjJ2+qnHB02XlvGTSA22OGPccIDbF5zLPpxg==",
+  "success": true,
+  "projectFilePath": "/Users/sofi/Projects/TP_1/TP_1/TP_1.csproj",
+  "expectedPackageFiles": [
+    "/Users/sofi/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/sofi/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/sofi/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

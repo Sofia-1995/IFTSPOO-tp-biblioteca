@@ -1,0 +1,14 @@
+/Users/sofi/Projects/TP_1/TP_1/bin/Debug/netcoreapp3.1/TP_1
+/Users/sofi/Projects/TP_1/TP_1/bin/Debug/netcoreapp3.1/TP_1.deps.json
+/Users/sofi/Projects/TP_1/TP_1/bin/Debug/netcoreapp3.1/TP_1.runtimeconfig.json
+/Users/sofi/Projects/TP_1/TP_1/bin/Debug/netcoreapp3.1/TP_1.runtimeconfig.dev.json
+/Users/sofi/Projects/TP_1/TP_1/bin/Debug/netcoreapp3.1/TP_1.dll
+/Users/sofi/Projects/TP_1/TP_1/bin/Debug/netcoreapp3.1/TP_1.pdb
+/Users/sofi/Projects/TP_1/TP_1/obj/Debug/netcoreapp3.1/TP_1.csproj.AssemblyReference.cache
+/Users/sofi/Projects/TP_1/TP_1/obj/Debug/netcoreapp3.1/TP_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofi/Projects/TP_1/TP_1/obj/Debug/netcoreapp3.1/TP_1.AssemblyInfoInputs.cache
+/Users/sofi/Projects/TP_1/TP_1/obj/Debug/netcoreapp3.1/TP_1.AssemblyInfo.cs
+/Users/sofi/Projects/TP_1/TP_1/obj/Debug/netcoreapp3.1/TP_1.csproj.CoreCompileInputs.cache
+/Users/sofi/Projects/TP_1/TP_1/obj/Debug/netcoreapp3.1/TP_1.dll
+/Users/sofi/Projects/TP_1/TP_1/obj/Debug/netcoreapp3.1/TP_1.pdb
+/Users/sofi/Projects/TP_1/TP_1/obj/Debug/netcoreapp3.1/TP_1.genruntimeconfig.cache

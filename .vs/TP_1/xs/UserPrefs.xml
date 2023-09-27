@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{94EB3864-DC4A-40D4-809B-A7DF4BC46A2C}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TP__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP_1/Lector.cs">
+    <Files>
+      <File FileName="TP_1/Program.cs" Line="24" Column="41" />
+      <File FileName="TP_1/Lector.cs" Line="42" Column="1" />
+      <File FileName="TP_1/Libro.cs" Line="20" Column="1" />
+      <File FileName="TP_1/Biblioteca.cs" Line="16" Column="10" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP_1" expanded="True">
+            <Node name="TP_1" expanded="True">
+              <Node name="Lector.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
